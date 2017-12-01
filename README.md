@@ -1,2 +1,1 @@
-# fcc-glitch-timestamp
-FreeCodeCamp Timestamp microservice
+# Backend Challenges boilerplate - package.json
